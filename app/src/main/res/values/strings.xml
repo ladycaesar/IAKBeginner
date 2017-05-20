@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IAK Beginner</string>
+
+    <!--Text String-->
+    <string name="hbd_text">Happy Birthday!</string>
+    <string name="form">From Me!</string>
+    <string name="click">Click Me</string>
+    <string name="yourname">Your name</string>
+    <string name="labelabout_judul">About me:</string>
+    <string name="labelabout_konten">Aplikasi ini dibuat oleh:</string>
+    <string name="labelabout_konten1">Lady Caesar Sevika Deyale</string>
+    <string name="labelabout_konten2">NIM: 1511503581</string>
+    <string name="labelabout_konten3">&#174;2017 Copyright ladydeeyy</string>
+
+
+</resources>
